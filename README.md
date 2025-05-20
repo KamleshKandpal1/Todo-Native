@@ -1,8 +1,6 @@
-# Todo-Native
+# 📱 React Native Todo App — Learn CRUD Operations
 
-## 📱 React Native Todo App — Learn CRUD Operations
-
-####
+##
 A simple and beginner-friendly Todo application built with React Native to demonstrate fundamental CRUD (Create, Read, Update, Delete) operations. This project is designed to help understand the core concepts of React Native, such as state management, component structure, user input handling, and persistent storage using AsyncStorage.
 
 ### Home Page
