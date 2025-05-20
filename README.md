@@ -18,7 +18,4 @@
 
 ## Demo Video
 
-
-<a href="https://youtube.com/shorts/Ak0AtgI_eeM" target="_blank">
-  💻
-</a>
+[![Watch the demo 💻]](https://youtube.com/shorts/Ak0AtgI_eeM)
