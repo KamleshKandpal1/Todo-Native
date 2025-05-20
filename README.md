@@ -18,4 +18,4 @@
 
 ## Demo Video
 
-[![Watch the demo 💻]](https://youtube.com/shorts/Ak0AtgI_eeM)
+[!Watch the demo 💻](https://youtube.com/shorts/Ak0AtgI_eeM)
