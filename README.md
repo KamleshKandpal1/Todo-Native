@@ -2,20 +2,25 @@
 
 ## Home Page
 
-![Image](https://github.com/user-attachments/assets/8af08ef0-a302-425d-a4e8-972ea52a414b)
+<img src="https://github.com/user-attachments/assets/8af08ef0-a302-425d-a4e8-972ea52a414b" width="400" />
 
 ## Todo List
 
-![Image](https://github.com/user-attachments/assets/cb34eb89-9048-49a6-ac3c-f4ec6d4a2a48)
+<img src="https://github.com/user-attachments/assets/cb34eb89-9048-49a6-ac3c-f4ec6d4a2a48" width="400" />
 
-## Active Todo
+## Active Todo's
 
-![Image](https://github.com/user-attachments/assets/a729a495-2dd4-4424-90d9-1c12f8348034)
+<img src="https://github.com/user-attachments/assets/a729a495-2dd4-4424-90d9-1c12f8348034" width="400" />
 
-## Completed Todo
+## Completed Todo's
 
-![Image](https://github.com/user-attachments/assets/0d1c483f-4fe5-4b93-bbd7-264919c7e004)
+<img src="https://github.com/user-attachments/assets/0d1c483f-4fe5-4b93-bbd7-264919c7e004" width="400" />
 
 ## Demo Video
 
-[![Watch the demo](https://www.shutterstock.com/image-vector/video-tag-icon-logo-sign-600nw-2486092705.jpg)](https://youtube.com/shorts/Ak0AtgI_eeM)
+<h2>Demo Video</h2>
+<a href="https://youtube.com/shorts/Ak0AtgI_eeM" target="_blank">
+  <img src="https://www.shutterstock.com/image-vector/video-tag-icon-logo-sign-600nw-2486092705.jpg" 
+       alt="Watch the demo"
+       width="400" height="225" />
+</a>
