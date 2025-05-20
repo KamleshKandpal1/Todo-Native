@@ -20,5 +20,5 @@
 
 
 <a href="https://youtube.com/shorts/Ak0AtgI_eeM" target="_blank">
-  <h2>Demo Video 💻</h2>
+  💻
 </a>
