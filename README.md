@@ -56,4 +56,4 @@ This project is ideal for those learning how to:
 ## 🙌 Author
 
 **Kamlesh Kandpal**
-[GitHub](https://github.com/KamleshKandpal1) • [LinkedIn](https://linkedin.com/in/kamlesh-kandpal)
+**[GitHub](https://github.com/KamleshKandpal1) • [LinkedIn](https://linkedin.com/in/kamlesh-kandpal)**
