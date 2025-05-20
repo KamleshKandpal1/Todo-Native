@@ -18,9 +18,7 @@
 
 ## Demo Video
 
-<h2>Demo Video</h2>
+
 <a href="https://youtube.com/shorts/Ak0AtgI_eeM" target="_blank">
-  <img src="https://cdn.prod.website-files.com/6262a9705cabe0833039d5c8/65ba8dac0cecc20187a88184_Demo%20videos%20thumbnail.jpeg" 
-       alt="Watch the demo"
-       width="400" height="225" />
+  <h2>Demo Video 💻</h2>
 </a>
